@@ -1,0 +1,1 @@
+Ler de um arquivo  N nomes de pessoas e suas respectivas idades. Agrupar as pessoas por idade e mostrar nomes por cada idade.

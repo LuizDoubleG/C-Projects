@@ -1,0 +1,1 @@
+Deseja-se pintar as faces do objeto com uma cor (R,G,B) proporcional ao angulo definido entre ao vetor normal de cada face e o vetor de raio de luz  que esta na origem do sistema cartesiano.

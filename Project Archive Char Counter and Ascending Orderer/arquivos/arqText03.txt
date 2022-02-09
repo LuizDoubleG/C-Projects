@@ -1,0 +1,1 @@
+Existem um conjunto de N pontos no espaco 3D que representam vertices de faces poligonais (4 lados) de um objeto. 

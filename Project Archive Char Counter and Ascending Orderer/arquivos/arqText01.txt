@@ -1,0 +1,1 @@
+Dado um conjunto de arquivos de texto. Estabelecer uma ordem de acesso aos arquivos dependendo do número de caracteres, exceto  mais de dois espaços, que eles contêm.
